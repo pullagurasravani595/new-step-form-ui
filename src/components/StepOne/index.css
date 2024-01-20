@@ -1,0 +1,39 @@
+.step-one-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.input-label-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4px;
+  padding-left: 4px;
+}
+
+.gender {
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+
+.step-one-container {
+  padding: 10px;
+}
+
+.step-one-input {
+  width: 80%;
+  height: 30px;
+  outline: none;
+  margin-top: 5px;
+}
+
+.step-one-btn {
+  margin-left: 250px;
+  line-height: 2;
+  background-color: #5757ab;
+  color: #ffffff;
+  border-width: 0px;
+}
+
+.label-one::before {
+  content: *;
+}

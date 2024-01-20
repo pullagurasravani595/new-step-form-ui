@@ -1,0 +1,41 @@
+.step-three-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.input-label-container-three {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4px;
+  padding-left: 4px;
+}
+
+.step-three-container {
+  padding: 10px;
+}
+
+.step-three-input {
+  width: 80%;
+  height: 30px;
+  outline: none;
+  margin-top: 5px;
+}
+
+.step-three-btn {
+  line-height: 2;
+  background-color: #5757ab;
+  color: #ffffff;
+  border-width: 0px;
+}
+
+.step-three-btn-container {
+  display: flex;
+  margin-left: 200px;
+}
+
+.step-three-previous-btn {
+  background-color: transparent;
+  color: black;
+  margin-right: 4px;
+  border: 1px solid gray;
+}

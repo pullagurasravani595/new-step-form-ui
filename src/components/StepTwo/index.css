@@ -1,0 +1,41 @@
+.step-two-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.input-label-container-two {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4px;
+  padding-left: 4px;
+}
+
+.step-two-container {
+  padding: 10px;
+}
+
+.step-two-input {
+  width: 80%;
+  height: 30px;
+  outline: none;
+  margin-top: 5px;
+}
+
+.step-two-btn {
+  line-height: 2;
+  background-color: #5757ab;
+  color: #ffffff;
+  border-width: 0px;
+}
+
+.step-two-btn-container {
+  display: flex;
+  margin-left: 200px;
+}
+
+.step-two-previous-btn {
+  background-color: transparent;
+  color: black;
+  margin-right: 4px;
+  border: 1px solid gray;
+}
